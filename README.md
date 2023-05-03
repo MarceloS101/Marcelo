@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MarceloS101
-- 👀 I’m interested in Data Bases
-- 🌱 I’m currently learning SQL
+- 👋 Hi, I’m @Marcelo
+- 👀 I’m interested in Data Bases, Data Science, Game Development, Quality Assurance
+- 🌱 I’m currently learning SQL, Python, C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ignacio.sd101@gmail.com
 
